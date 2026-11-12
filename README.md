@@ -4,7 +4,7 @@
 This project uses Microsoft Power BI to explore sports footwear sales performance across brands, countries, product categories, and sales channels.
 
 ## Dashboard Preview
-![Sports Footwear Sales Dashboard](screenshots/Sports_Footwear_Dashboard.png)
+![Sports Footwear Sales Dashboard](Sports_Footwear_Dashboard.png)
 
 ## Key Metrics
 - **Total Revenue:** $300.67K
