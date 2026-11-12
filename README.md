@@ -36,8 +36,15 @@ This project uses Microsoft Power BI to explore sports footwear sales performanc
 - Business data analysis
 
 ## Files
-- `dashboard/` — Power BI report
-- `screenshots/` — dashboard preview
+
+| File | Description |
+|---|---|
+| Sports_Footwear_Sales.pbix | Power BI project file containing the interactive dashboard and data analysis |
+| Sports_Footwear_Dashboard.png | Dashboard preview image |
+| README.md | Project documentation |
 
 ## Author
-Aspiring Junior Data Analyst
+
+**Asmi Nazar**
+
+Aspiring Data Analyst
